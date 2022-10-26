@@ -58,8 +58,6 @@ a{
 }
 .main{
 	padding: 15px;
-}
-.main__inner{
 	display: flex;
 }
 .text{
